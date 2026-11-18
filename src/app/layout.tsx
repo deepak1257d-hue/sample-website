@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   // AEGIS website ownership verification
  
   other: {
-    "rakshak-verification": "13ea9bdbea44d2c1affa064d8b07b41f",
+    "rakshak-verification": "917bcd34530967f7babfb81de26989e0",
   },
 
   openGraph: {
