@@ -21,6 +21,13 @@ export const metadata: Metadata = {
   description: SHOP_CONFIG.seo.descriptionEn,
   keywords: SHOP_CONFIG.seo.keywords,
   authors: [{ name: SHOP_CONFIG.shopName.en }],
+
+  // AEGIS website ownership verification
+ 
+  other: {
+    "rakshak-verification": "5de255d986d8b1a72706f205e43718e2",
+  },
+
   openGraph: {
     title: SHOP_CONFIG.seo.titleEn,
     description: SHOP_CONFIG.seo.descriptionEn,
