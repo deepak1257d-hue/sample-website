@@ -23,9 +23,9 @@ export const metadata: Metadata = {
   authors: [{ name: SHOP_CONFIG.shopName.en }],
 
   // AEGIS website ownership verification
- 
+
   other: {
-    "rakshak-verification": "917bcd34530967f7babfb81de26989e0",
+    "rakshak-verification": "c6b7c8452d809592220af8d70184ca7c",
   },
 
   openGraph: {
